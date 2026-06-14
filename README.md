@@ -50,11 +50,11 @@ I enjoy building projects, learning new technologies, and improving my developme
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush16hargode-coder&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush16hargode-coder&layout=compact&theme=tokyonight)
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `ayush16hargode-coder` with your GitHub username.
 
 ---
 

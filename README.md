@@ -54,7 +54,6 @@ I enjoy building projects, learning new technologies, and improving my developme
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush16hargode-coder&layout=compact&theme=tokyonight)
 
-Replace `ayush16hargode-coder` with your GitHub username.
 
 ---
 
